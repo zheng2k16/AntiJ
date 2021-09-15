@@ -1,5 +1,5 @@
 # AntiJ
-> simple Javap-c interpreter
+> simple Javap -v interpreter
 
 standalone jar
 
