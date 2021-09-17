@@ -3,7 +3,7 @@
 
 standalone jar
 
-- [x] zh_CN so far [encoding GBK]
+- [x] zh_CN so far [encoding UTF-8]
 - [x] drag .class file then drop it, easy to deal simple .class file
 - [x] alt + f4 to close it
 
